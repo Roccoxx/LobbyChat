@@ -1,0 +1,85 @@
+[en]
+SZ_MAXLOBBYS = Max lobby limit
+SZ_MAXMEMBERS = Max Member limit
+SZ_ADMINS = Only an admin can create lobby
+SZ_NOT = No lobbies Found
+SZ_ALREADY = You are already member
+SZ_CREATOR = You already create a lobby
+SZ_NOT_LOBBY = You do not have a lobby
+SZ_NOT_EXIST = Lobby does not exist
+SZ_NOT_MEMBER = You not are member
+SZ_HIGH_NAME = High Lobby Name
+SZ_ACCEPT = %s Has accepted you invitation
+SZ_DECLINE = %s Has declined your invitation
+SZ_CREATE = ^1You create the lobby:^4 %s
+
+[es]
+SZ_MAXLOBBYS = LIMITE DE SALAS DE CHAT ALCANZADO
+SZ_MAXMEMBERS = LIMITE DE INTEGRANTES ALCANZADO
+SZ_ADMINS = SOLO LOS ADMINISTRADORES PUEDEN CREAR UNA SALA DE CHAT
+SZ_NOT = NO HAY SALAS DE CHAT CREADAS
+SZ_ALREADY = USTED YA ES MIEMBRO
+SZ_CREATOR = USTED YA CREO UNA SALA DE CHAT
+SZ_NOT_LOBBY = NO TIENES UNA SALA DE CHAT
+SZ_NOT_EXIST = LA SALA DE CHAT NO EXISTE
+SZ_NOT_MEMBER = USTED NO ES MIEMBRO
+SZ_HIGH_NAME = NOMBRE MUY LARGO
+SZ_ACCEPT = %s Ha aceptado tu invitacion
+SZ_DECLINE = %s ha rechazado tu invitacion
+SZ_CREATE = ^1Creaste la sala:^4 %s
+
+[pl]
+SZ_MAXLOBBYS = Maksymalna liczba chatroomow
+SZ_MAXMEMBERS = Maksymalna liczba graczy
+SZ_ADMINS = Tylko admin moze tworzyc chatroomy
+SZ_NOT = Brak chatroomow
+SZ_ALREADY = Jestes juz czlonkiem tego chatroomu
+SZ_CREATOR = You already create a lobby
+SZ_NOT_LOBBY = Nie masz chatrooma
+SZ_NOT_EXIST = Nie ma takiego chatrooma
+SZ_NOT_MEMBER = Nie jestes czlonkiem tego chatrooma
+SZ_HIGH_NAME = High Lobby Name
+SZ_ACCEPT = %s zaakceptowal zaproszenie
+SZ_DECLINE = %s odrzucil zaproszenie
+
+[de]
+SZ_MAXLOBBYS = Limit der Lobby
+SZ_MAXMEMBERS = Limit der Member
+SZ_ADMINS = Nur ein Admin kann eine Lobby oeffnen
+SZ_NOT = Es wurden keine Lobbys gefunden
+SZ_ALREADY = Du bist bereits Member
+SZ_CREATOR = Du hast bereits eine Lobby geoeffnet
+SZ_NOT_LOBBY = Du hast keine Lobby
+SZ_NOT_EXIST = Lobby existiert nicht
+SZ_NOT_MEMBER = Du bist kein Member
+SZ_HIGH_NAME = Hoher Lobby Name
+SZ_ACCEPT = %s Hat deine Einladung akzeptiert
+SZ_DECLINE = %s Hat deine Einladung abgelehnt
+
+[da]
+SZ_MAXLOBBYS = Max lobby grænse
+SZ_MAXMEMBERS = Max medlems grænse
+SZ_ADMINS = Kun en admin kan oprette lobbyer
+SZ_NOT = Ingen lobbyer blev fundet
+SZ_ALREADY = Du er allerede medlem
+SZ_CREATOR = Du har allerede lavet en lobby
+SZ_NOT_LOBBY = Du har ikke en lobby
+SZ_NOT_EXIST = Lobbyen eksisterer ikke
+SZ_NOT_MEMBER = Du er ikke medlem
+SZ_HIGH_NAME = Prøv venligst et andet navn
+SZ_ACCEPT = %s har accepteret din invitation
+SZ_DECLINE = %s har afvist din invitation[/QUOTE]
+
+[et]
+SZ_MAXLOBBYS = Maksimum lobby limiit
+SZ_MAXMEMBERS = Maksimum liikmete limiit
+SZ_ADMINS = Ainult admin saab luua lobby
+SZ_NOT = Lobbysid ei leitud
+SZ_ALREADY = Sa oled juba liige
+SZ_CREATOR = Sa juba moodustasid lobby
+SZ_NOT_LOBBY = Sul ei ole lobby
+SZ_NOT_EXIST = Lobby ei eksisteeri
+SZ_NOT_MEMBER = Sa ei ole liige
+SZ_HIGH_NAME = Lobby nimi on liiga pikk
+SZ_ACCEPT = %s aktsepteeris su kutse
+SZ_DECLINE = %s lykkas su kutse tagasi
